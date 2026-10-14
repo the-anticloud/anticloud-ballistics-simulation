@@ -1,0 +1,46 @@
+{
+ "bomFormat": "CycloneDX",
+ "specVersion": "1.5",
+ "serialNumber": "urn:uuid:c7ac9f8b-4857-558d-9175-590e13eaad62",
+ "version": 1,
+ "metadata": {
+  "timestamp": "2026-10-06T08:59:33Z",
+  "component": {
+   "type": "application",
+   "name": "BALLISTICS_SIMULATION",
+   "version": "83b357604d34",
+   "bom-ref": "pkg:generic/anticloud/BALLISTICS_SIMULATION@83b357604d34",
+   "purl": "pkg:generic/anticloud/BALLISTICS_SIMULATION@83b357604d34",
+   "licenses": [
+    {
+     "license": {
+      "id": "MIT"
+     }
+    }
+   ]
+  },
+  "properties": [
+   {
+    "name": "anticloud:source-commit",
+    "value": "REMOVED_CONTAMINATED_SHA_PENDING_API_RESOLVE"
+   },
+   {
+    "name": "anticloud:source-url",
+    "value": "https://github.com/the-anticloud/OPENMRS_CORE.git"
+   },
+   {
+    "name": "anticloud:tier",
+    "value": "tier-agent"
+   }
+  ]
+ },
+ "components": [],
+ "source": {
+  "git": {
+   "head": null,
+   "url": null,
+   "sha_unverified": true,
+   "note": "contamination removed; resolve via GitHub API before quoting"
+  }
+ }
+}
