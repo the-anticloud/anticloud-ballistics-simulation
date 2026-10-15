@@ -1,0 +1,16 @@
+{
+ "framework": "01_FedRAMP",
+ "title": "FedRAMP Moderate (NIST SP 800-53 rev5 baseline)",
+ "project": "BALLISTICS_SIMULATION",
+ "basis": [
+  {
+   "check": "12_fedramp",
+   "status": "PASS",
+   "observed": "{\"authority\": \"FedRAMP\", \"control_ids\": [\"IA-2\", \"IA-5\", \"RA"
+  }
+ ],
+ "verdict": "CONTROLS EVIDENCED \u2014 all basis checks PASS",
+ "pax_provenance": "Run ID loiskleinner/pax-benchmark-runner v3, 2026-10-02, Kaggle T4 x2 (2x 16GB VRAM), Ubuntu 22.04, Python 3.12. These are PAX L5 Narrow L2 General 27B model-level results \u2014 shared model component, not this project's verdict.",
+ "bench_sha3": "466f8779507da94987702a4d6888be9852995b4ffd360b517852e1eb4f1da05b",
+ "register_sha3": "84fec2834ce5f93b6bfc1f92e0481d3b4e6b288e04e9ab34a301bea134a0d964"
+}
