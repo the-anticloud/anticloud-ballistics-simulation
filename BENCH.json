@@ -541,9 +541,11 @@
  "license": "MIT",
  "source": {
   "git": {
-   "tree_sha3": "5c4ed21c0f81cda358f001cc927b35a26be086eb820d0ee8c84e124bfb3e3961",
-   "tree_files": 49,
-   "tree_note": "SHA3-256 over vendored source tree on disk (paths+contents, excl .git); recompute to verify"
+   "url": "https://github.com/EmpiresCommunity/ECSProjectiles",
+   "head": "3bf576709f5b520dbae93c0e919387bdff1968a0",
+   "branch": "",
+   "sha_verified_from": "permissive resolve 2026-10-16: MIT/Apache genre match",
+   "previous_upstream": ""
   }
  }
 }
